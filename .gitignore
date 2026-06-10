@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/genesis_tools/sgdk
+/genesis_tools/jre
+/genesis_tools/Gens_v2.14
+/env
+/tools/output
